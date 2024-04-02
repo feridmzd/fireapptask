@@ -1,0 +1,15 @@
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\bin\Debug\net7.0\ConsoleAppPP.exe
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\bin\Debug\net7.0\ConsoleAppPP.deps.json
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\bin\Debug\net7.0\ConsoleAppPP.runtimeconfig.json
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\bin\Debug\net7.0\ConsoleAppPP.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\bin\Debug\net7.0\ConsoleAppPP.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.csproj.AssemblyReference.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.AssemblyInfoInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.AssemblyInfo.cs
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\refint\ConsoleAppPP.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ConsoleAppPP.genruntimeconfig.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppPP\ConsoleAppPP\obj\Debug\net7.0\ref\ConsoleAppPP.dll
